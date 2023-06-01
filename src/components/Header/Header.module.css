@@ -1,0 +1,11 @@
+.mainMenu {
+  display: flex;
+  gap: 90px;
+
+  list-style: none;
+}
+
+.menuLink{
+  text-decoration: none;
+  color: black;
+}
