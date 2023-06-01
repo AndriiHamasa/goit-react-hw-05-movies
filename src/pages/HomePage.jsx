@@ -1,6 +1,5 @@
 import searchFilm from 'components/API/api';
 import { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
 import MovieDetailsItem from 'components/MovieDetailsItem/MovieDetailsItem';
 
 const HomePage = () => {
